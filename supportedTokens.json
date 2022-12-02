@@ -120,6 +120,8 @@
   "BNB": ["BNB", "BUSD-bd1", "TWT-8c2", "BTCB-1de", "AVA-645"],
   "DOGE": ["DOGE"],
   "SOLANA": [
+    "SOL",
+    "USDC-EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "AVAX-KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
     "AVAX-AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
     "JOE-CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm",
