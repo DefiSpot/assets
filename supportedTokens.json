@@ -174,5 +174,6 @@
   ],
   "LTC": ["LTC"],
   "BCH": ["BCH"],
-  "THOR": ["RUNE"]
+  "THOR": ["RUNE"],
+  "COSMOS": ["ATOM"]
 }
