@@ -186,6 +186,16 @@
     "AVAX-0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
     "AAVE-0xd6df932a45c0f255f85145f286ea0b292b21c90b"
   ],
+  "ARBITRUM": [
+    "ETH",
+    "USDT-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "USDC-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "DAI-0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "UNI-0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "WBTC-0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "LINK-0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "LDO-0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60"
+  ],
   "LTC": ["LTC"],
   "BCH": ["BCH"],
   "THOR": ["RUNE"],
