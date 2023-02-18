@@ -209,6 +209,10 @@
     "FANTOM": [
        "FTM"
     ],
+    "BOBA": [
+      "BOBA",
+      "ETH"
+    ],
     "COSMOS": [
       "ATOM"
     ]
