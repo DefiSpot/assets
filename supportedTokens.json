@@ -206,6 +206,13 @@
       "AVAX-0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
       "AAVE-0xd6df932a45c0f255f85145f286ea0b292b21c90b"
     ],
+    "FANTOM": [
+       "FTM"
+    ],
+    "BOBA": [
+      "BOBA",
+      "ETH"
+    ],
     "COSMOS": [
       "ATOM"
     ]
