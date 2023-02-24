@@ -352,18 +352,7 @@
     "LINK-0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
     "LDO-0xfdb794692724153d1488ccdbe0c56c252596735f"
   ],
-  BOBA: [
-    'ETH',
-    'BOBA',
-    'USDT-0x5de1677344d3cb0d7d465c10b72a8f60699c062d',
-    'BNB-0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b',
-    'USDC-0x66a2a913e447d6b4bf33efbec43aaef87890fbbc',
-    'BUSD-0x461d52769884ca6235b685ef2040f47d30c94eb5',
-    'MATIC-0x922d641a426dcffaef11680e5358f34d97d112e1',
-    'AVAX-0xfa9343c3897324496a05fc75abed6bac29f8a40f',
-    'DAI-0xf74195bb8a5cf652411867c5c2c5b8c2a402be35',
-    'WBTC-0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b',
-    'FTM-0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73',
-    'UNI-0xdbde1347fed5dc03c74059010d571a16417d307e'
+  "BOBA": [
+   "ETH"
   ]
 }
