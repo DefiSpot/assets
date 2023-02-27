@@ -139,7 +139,8 @@
         "APE-0x4d224452801aced8b2f0aebe155379bb5d594381",
         "APE-0x40e0a6ef9dbadfc83c5e0d15262feb4638588d77",
         "APE-0x26ea1f595f6567b7050fbba24f6a66e19db4d560",
-        "APE-0x209c1808febf6c1ab7c65764bb61ad67d3923fcc"
+        "APE-0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
+        "FET-0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
     ],
     "BNB": [
         "BNB",
@@ -277,8 +278,7 @@
         "SOL-0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
         "SOL-0x570a5d26f7765ecb712c0924e4de545b89fd43df",
         "APE-0xc762043e211571eb34f1ef377e5e8e76914962f9",
-        "APE-0x0b079b33b6e72311c6be245f9f660cc385029fc3",
-        "FET-0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
+        "APE-0x0b079b33b6e72311c6be245f9f660cc385029fc3"
     ],
     "POLYGON": [
         "MATIC",
