@@ -11,13 +11,14 @@ const tokens = meta.data.tokens;
 
 const dirPath = './tokenImages/';
 
-await getImages(0, 100);
+await getImages(0, 500);
 
 async function getImages(start, end) {
 
     let tokensSlice = tokens.slice(start,end);
 
-    if(end > tokens.length) {
+    if(start >= tokens.length) {
+        console.log('done')
         return;
     }
     
@@ -76,13 +77,13 @@ async function getImages(start, end) {
         })
     }))
     
-    await new Promise(resolve => setTimeout(()=>{getImages(start + 100, end + 100)}, "5000"));
+    await new Promise(resolve => setTimeout(()=>{
+        console.log('batch ' + start + " - " + end + " done!")
+        exportToJson('./tokensWithoutImages.json', tokensWithoutImages)
+        exportToJson('./tokensUrlMap.json', tokensUrlMap)
+        getImages(start + 500, end + 500)
+    }, "5000"));
 }
-    
-exportToJson('./tokensWithoutImages.json', tokensWithoutImages)
-exportToJson('./tokensUrlMap.json', tokensUrlMap)
-
-console.log('done')
 
 function getTicker(token) {
     return token.symbol + (token.address ? '-' + token.address : '')
