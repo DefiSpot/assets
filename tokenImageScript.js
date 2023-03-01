@@ -3,7 +3,7 @@ import fs from 'fs';
 import tokensWithoutImages from './tokensWithoutImages.json' assert { type: 'json' };
 import tokensUrlMap from './tokensUrlMap.json' assert { type: 'json' };
 
-const imageUrlRepo = 'https://api.rango.exchange/meta?apiKey=57e66bdb-07ae-4956-a117-7570276a02d6';
+const imageUrlRepo = '';
 
 const meta = await axios.get(imageUrlRepo);
 
