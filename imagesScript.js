@@ -3,17 +3,86 @@ import fs from 'fs';
 import tokensWithoutImages from './tokensWithoutImages.json' assert { type: 'json' };
 import tokensUrlMap from './tokensUrlMap.json' assert { type: 'json' };
 
-const imageUrlRepo = '';
+const imageUrlRepo = 'https://api.rango.exchange/meta?apiKey=57e66bdb-07ae-4956-a117-7570276a02d6';
 
 const meta = await axios.get(imageUrlRepo);
 
 const tokens = meta.data.tokens;
 
+const blockchains = meta.data.blockchains
+
+const swappers = meta.data.swappers
+
 const dirPath = './tokenImages/';
 
-await getImages(0, 500);
+//await getTokenImages(0, 500);
 
-async function getImages(start, end) {
+await getBlockchainImages();
+
+async function getBlockchainImages() {
+     
+    await Promise.all(blockchains.map(async blockchain => {
+        const {name} = blockchain
+        const blockchainDir = dirPath + name;
+
+        if(!fs.existsSync(blockchainDir)) {
+            fs.mkdirSync(blockchainDir);
+        }
+
+        await axios({
+            method: 'get',
+            url: blockchain.logo,
+            responseType: 'stream'
+        }).then(function (response) {
+            const fileType = response.headers['content-type'];
+            let fileExtension = "." + fileType.split('/')[1]
+
+            if(fileExtension.includes('octet')) {
+                fileExtension = '.png';
+            }
+            else if(fileExtension.includes("+")) {
+                fileExtension = '.svg';
+            }
+
+            const filePath = blockchainDir + '/' + name + fileExtension
+
+            if(!fs.existsSync(filePath)) {
+                response.data.pipe(fs.createWriteStream(filePath));
+            }
+
+            if(!tokensUrlMap[name]) {
+                tokensUrlMap[name] = {}
+            }
+
+            if(!tokensUrlMap[name].hasOwnProperty("logo")) {
+                tokensUrlMap[name]["logo"] = 'https://raw.githubusercontent.com/DefiSpot/assets/main' + filePath.substring(1)
+            }
+
+        })
+        .catch(function (error) {
+            if(!tokensWithoutImages[name]) {
+                tokensWithoutImages[name] = []
+            }
+            
+            if(!tokensWithoutImages[name].includes("logo")) {
+                tokensWithoutImages[name].push("logo")
+            }
+
+            if(!error.message.includes('404')) {
+                console.log('name', name)
+                console.log(console.log('error', error.message))
+            }
+        })
+
+     }
+
+    ))
+
+    exportToJson('./tokensWithoutImages.json', tokensWithoutImages)
+    exportToJson('./tokensUrlMap.json', tokensUrlMap)
+} 
+
+async function getTokenImages(start, end) {
 
     let tokensSlice = tokens.slice(start,end);
 
