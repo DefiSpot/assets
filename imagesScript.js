@@ -2,6 +2,8 @@ import axios from 'axios';
 import fs from 'fs';
 import tokensWithoutImages from './tokensWithoutImages.json' assert { type: 'json' };
 import tokensUrlMap from './tokensUrlMap.json' assert { type: 'json' };
+import swappersWithoutImages from './swappersWithoutImages.json' assert { type: 'json' };
+import swappersUrlMap from './swappersUrlMap.json' assert { type: 'json' };
 
 const imageUrlRepo = 'https://api.rango.exchange/meta?apiKey=57e66bdb-07ae-4956-a117-7570276a02d6';
 
@@ -14,10 +16,76 @@ const blockchains = meta.data.blockchains
 const swappers = meta.data.swappers
 
 const dirPath = './tokenImages/';
+const swapperPath = './swapperImages/';
 
-//await getTokenImages(0, 500);
+// await getTokenImages(0, 500);
 
-await getBlockchainImages();
+// await getBlockchainImages();
+
+await getSwapperImages();
+
+async function getSwapperImages() {
+     
+    await Promise.all(swappers.map(async swapper => {
+        const {id, title} = swapper
+        const swapperDir = swapperPath + title.toUpperCase();
+
+        if(!fs.existsSync(swapperDir)) {
+            fs.mkdirSync(swapperDir);
+        }
+
+        await axios({
+            method: 'get',
+            url: swapper.logo,
+            responseType: 'stream'
+        }).then(function (response) {
+            const fileType = response.headers['content-type'];
+            let fileExtension = "." + fileType.split('/')[1]
+
+            if(fileExtension.includes('octet')) {
+                fileExtension = '.png';
+            }
+            else if(fileExtension.includes("+")) {
+                fileExtension = '.svg';
+            }
+
+            const filePath = swapperDir + '/' + id + fileExtension
+
+            if(!fs.existsSync(filePath)) {
+                response.data.pipe(fs.createWriteStream(filePath));
+            }
+
+            if(!swappersUrlMap[title]) {
+                swappersUrlMap[title] = {}
+            }
+
+            if(!swappersUrlMap[title].hasOwnProperty(id)) {
+                swappersUrlMap[title][id] = 'https://raw.githubusercontent.com/DefiSpot/assets/main' + filePath.substring(1)
+            }
+
+        })
+        .catch(function (error) {
+            if(!swappersWithoutImages[title]) {
+                swappersWithoutImages[title] = []
+            }
+            
+            if(!swappersWithoutImages[title].includes(id)) {
+                swappersWithoutImages[title].push(id)
+            }
+
+            if(!error.message.includes('404')) {
+                console.log('name', id)
+                console.log(console.log('error', error.message))
+            }
+        })
+
+     }
+
+    ))
+
+    exportToJson('./swappersWithoutImages.json', swappersWithoutImages)
+    exportToJson('./swappersUrlMap.json', swappersUrlMap)
+} 
 
 async function getBlockchainImages() {
      
