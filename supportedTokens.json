@@ -356,7 +356,23 @@
         "LDO-0xfdb794692724153d1488ccdbe0c56c252596735f"
     ],
     "FANTOM": [
-        "FTM"
+        "BTC-0x321162cd933e2be498cd2267a90534a804051b11",
+        "ETH-0x74b23882a30290451a17c44f4f05243b6b58c76d",
+        "BNB-0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+        "USDC-0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+        "USDC-0x2ec752329c3eb419136ca5e4432aa2cdb1ea23e6",
+        "USDC-0xb8398da4fb3bc4306b9d9d9d13d9573e7d0e299f",
+        "MATIC-0x40df1ae6074c35047bff66675488aa2f9f6384f3",
+        "BUSD-0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
+        "AVAX-0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+        "DAI-0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+        "LINK-0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+        "TUSD-0x9879abdea01a879644185341f7af7d8343556b7a",
+        "FTM",
+        "AAVE-0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+        "UNI-0x79068bc529e109dc50b2bedaebd63de6f986d900",
+        "SOL-0xd99021c2a33e4cf243010539c9e9b7c52e0236c1",
+        "APE-0x2d72a97a31dc920db03330780d30074626e39c8a"
     ],
     "BOBA": [
         "ETH",
