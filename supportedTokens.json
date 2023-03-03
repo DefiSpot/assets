@@ -355,6 +355,9 @@
         "LINK-0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
         "LDO-0xfdb794692724153d1488ccdbe0c56c252596735f"
     ],
+    "FANTOM": [
+        "FTM"
+    ],
     "BOBA": [
         "ETH",
         "BOBA-0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
