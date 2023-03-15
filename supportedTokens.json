@@ -181,7 +181,7 @@
         "APT-APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
         "BIT-EGiWZhNk3vUNJr35MbL2tY5YD6D81VVZghR2LgEFyXZh"
     ],
-    "AVAX_CCHAIN": [
+    "AVAX": [
         "AVAX",
         "USDC-0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
         "USDt-0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -316,7 +316,7 @@
         "SOL-0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
         "APE-0xd10da41d535078f23f68bd90e28b50b31fc40dbc"
     ],
-    "COSMOS": [
+    "GAIA": [
         "ATOM"
     ],
     "ARBITRUM": [
