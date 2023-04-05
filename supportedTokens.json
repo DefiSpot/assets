@@ -233,7 +233,8 @@
         "BUSD-0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
         "UNI-0x3350289891543865f8bb41ee747f31ce5d5e3739",
         "SOL-0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
-        "APE-0x0802d66f029c46e042b74d543fc43b6705ccb4ba"
+        "APE-0x0802d66f029c46e042b74d543fc43b6705ccb4ba",
+        "USDC.e-0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664"
     ],
     "LTC": [
         "LTC"
