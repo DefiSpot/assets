@@ -1,1 +1,177 @@
-{"1Inch":{"OneInchGnosis":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchGnosis.svg","OneInchOptimism":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchOptimism.svg","OneInchPolygon":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchPolygon.svg","OneInchArbitrum":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchArbitrum.svg","OneInchEth":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchEth.svg","OneInchBsc":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/1INCH/OneInchBsc.svg"},"OpenOcean":{"OpenOceanMoonRiver":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanMoonRiver.svg","OpenOceanBoba":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanBoba.svg","OpenOceanOptimism":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanOptimism.svg","OpenOceanAurora":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanAurora.svg","OpenOceanGnosis":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanGnosis.svg","OpenOceanCronos":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanCronos.svg","OpenOceanFantom":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPENOCEAN/OpenOceanFantom.svg"},"ParaSwap":{"ParaSwap Arbitrum":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Arbitrum.png","ParaSwap Eth":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Eth.png","ParaSwap Optimism":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Optimism.png","ParaSwap Fantom":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Fantom.png","ParaSwap Bsc":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Bsc.png","ParaSwap Avalanche":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Avalanche.png","ParaSwap Polygon":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PARASWAP/ParaSwap Polygon.png"},"SushiSwap":{"SushiArbitrum":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SUSHISWAP/SushiArbitrum.png","SushiHarmony":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SUSHISWAP/SushiHarmony.png"},"Hyphen":{"Hyphen Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/HYPHEN/Hyphen Aggregator.svg","Hyphen":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/HYPHEN/Hyphen.svg"},"Spooky Swap":{"SpookySwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SPOOKY SWAP/SpookySwap.png"},"Satellite By Axelar":{"Satellite":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SATELLITE BY AXELAR/Satellite.png"},"MDex":{"MDexHeco":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/MDEX/MDexHeco.png"},"Trisolaris":{"TrisolarisSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/TRISOLARIS/TrisolarisSwap.svg"},"Multichain":{"AnySwap Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/MULTICHAIN/AnySwap Aggregator.png","AnySwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/MULTICHAIN/AnySwap.png"},"Crona Swap":{"CronaSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/CRONA SWAP/CronaSwap.png"},"Stargate Bridge":{"stargate":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/STARGATE BRIDGE/stargate.svg"},"Avalanche Bridge":{"Avalanche Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/AVALANCHE BRIDGE/Avalanche Bridge.png"},"Stargate":{"Stargate Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/STARGATE/Stargate Aggregator.svg"},"cBridge v2.0":{"cBridge v2.0":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/CBRIDGE V2.0/cBridge v2.0.png","CBridge Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/CBRIDGE V2.0/CBridge Aggregator.png"},"JunoSwap":{"JunoSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/JUNOSWAP/JunoSwap.svg"},"Voyager":{"Voyager":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/VOYAGER/Voyager.svg"},"Wormhole Bridge":{"Wormhole":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/WORMHOLE BRIDGE/Wormhole.png"},"Solarbeam Swap":{"SolarbeamSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SOLARBEAM SWAP/SolarbeamSwap.png"},"FinKujira":{"FinKujira":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/FINKUJIRA/FinKujira.png"},"Beam Swap":{"BeamSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/BEAM SWAP/BeamSwap.png"},"UniSwap V2":{"EthUniSwapV2":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/UNISWAP V2/EthUniSwapV2.png"},"Symbiosis":{"Symbiosis":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SYMBIOSIS/Symbiosis.png"},"Pangolin Swap":{"PangolinSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PANGOLIN SWAP/PangolinSwap.png"},"Hop":{"Hop":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/HOP/Hop.svg"},"Sifchain":{"Sifchain":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SIFCHAIN/Sifchain.png"},"Arbitrum Bridge":{"Arbitrum Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/ARBITRUM BRIDGE/Arbitrum Bridge.svg"},"Pancake":{"PancakeSwapBsc":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/PANCAKE/PancakeSwapBsc.png"},"Thorchain":{"ThorChain":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/THORCHAIN/ThorChain.svg"},"Horizon Bridge":{"Horizon Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/HORIZON BRIDGE/Horizon Bridge.svg"},"Jupiter":{"Jupiter":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/JUPITER/Jupiter.svg"},"Rainbow Bridge":{"Rainbow Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/RAINBOW BRIDGE/Rainbow Bridge.svg"},"Voltage Swap":{"VoltageSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/VOLTAGE SWAP/VoltageSwap.png"},"Optimism Bridge":{"Optimism Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OPTIMISM BRIDGE/Optimism Bridge.svg"},"QuickSwap":{"QuickSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/QUICKSWAP/QuickSwap.png"},"OkcSwap":{"OkcSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OKCSWAP/OkcSwap.png"},"VVS Finance":{"VVSFinance":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/VVS FINANCE/VVSFinance.svg"},"Across":{"Across Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/ACROSS/Across Aggregator.png","Across":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/ACROSS/Across.png"},"Solana Wrapper":{"SolanaWrapper":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/SOLANA WRAPPER/SolanaWrapper.png"},"THORChain Agg":{"THORChain Aggregator":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/THORCHAIN AGG/THORChain Aggregator.svg"},"Lido":{"Lido":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/LIDO/Lido.png"},"CherrySwap":{"CherrySwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/CHERRYSWAP/CherrySwap.png"},"Stella Swap":{"StellaSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/STELLA SWAP/StellaSwap.png"},"Osmosis":{"Osmosis":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OSMOSIS/Osmosis.png"},"MM Finance":{"MMFinance":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/MM FINANCE/MMFinance.png"},"Viper Swap":{"ViperSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/VIPER SWAP/ViperSwap.png"},"Diffusion":{"Diffusion":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/DIFFUSION/Diffusion.png"},"AuroraSwap":{"AuroraSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/AURORASWAP/AuroraSwap.png"},"Oolong Swap":{"OolongSwap":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/OOLONG SWAP/OolongSwap.png"},"PoS Bridge":{"Polygon Bridge":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/POS BRIDGE/Polygon Bridge.png"},"MojitoSwap":{"Mojito":"https://raw.githubusercontent.com/DefiSpot/assets/backend-migration/swapperImages/MOJITOSWAP/Mojito.png"}}
+{
+  "1Inch": {
+    "OneInchGnosis": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchGnosis.svg",
+    "OneInchOptimism": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchOptimism.svg",
+    "OneInchPolygon": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchPolygon.svg",
+    "OneInchArbitrum": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchArbitrum.svg",
+    "OneInchEth": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchEth.svg",
+    "OneInchBsc": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/1INCH/OneInchBsc.svg"
+  },
+  "OpenOcean": {
+    "OpenOceanMoonRiver": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanMoonRiver.svg",
+    "OpenOceanBoba": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanBoba.svg",
+    "OpenOceanOptimism": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanOptimism.svg",
+    "OpenOceanAurora": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanAurora.svg",
+    "OpenOceanGnosis": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanGnosis.svg",
+    "OpenOceanCronos": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanCronos.svg",
+    "OpenOceanFantom": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPENOCEAN/OpenOceanFantom.svg"
+  },
+  "ParaSwap": {
+    "ParaSwap Arbitrum": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Arbitrum.png",
+    "ParaSwap Eth": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Eth.png",
+    "ParaSwap Optimism": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Optimism.png",
+    "ParaSwap Fantom": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Fantom.png",
+    "ParaSwap Bsc": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Bsc.png",
+    "ParaSwap Avalanche": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Avalanche.png",
+    "ParaSwap Polygon": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PARASWAP/ParaSwap Polygon.png"
+  },
+  "SushiSwap": {
+    "SushiArbitrum": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SUSHISWAP/SushiArbitrum.png",
+    "SushiHarmony": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SUSHISWAP/SushiHarmony.png"
+  },
+  "Hyphen": {
+    "Hyphen Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/HYPHEN/Hyphen Aggregator.svg",
+    "Hyphen": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/HYPHEN/Hyphen.svg"
+  },
+  "Spooky Swap": {
+    "SpookySwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SPOOKY SWAP/SpookySwap.png"
+  },
+  "Satellite By Axelar": {
+    "Satellite": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SATELLITE BY AXELAR/Satellite.png"
+  },
+  "MDex": {
+    "MDexHeco": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/MDEX/MDexHeco.png"
+  },
+  "Trisolaris": {
+    "TrisolarisSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/TRISOLARIS/TrisolarisSwap.svg"
+  },
+  "Multichain": {
+    "AnySwap Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/MULTICHAIN/AnySwap Aggregator.png",
+    "AnySwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/MULTICHAIN/AnySwap.png"
+  },
+  "Crona Swap": {
+    "CronaSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/CRONA SWAP/CronaSwap.png"
+  },
+  "Stargate Bridge": {
+    "stargate": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/STARGATE BRIDGE/stargate.svg"
+  },
+  "Avalanche Bridge": {
+    "Avalanche Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/AVALANCHE BRIDGE/Avalanche Bridge.png"
+  },
+  "Stargate": {
+    "Stargate Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/STARGATE/Stargate Aggregator.svg"
+  },
+  "cBridge v2.0": {
+    "cBridge v2.0": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/CBRIDGE V2.0/cBridge v2.0.png",
+    "CBridge Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/CBRIDGE V2.0/CBridge Aggregator.png"
+  },
+  "JunoSwap": {
+    "JunoSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/JUNOSWAP/JunoSwap.svg"
+  },
+  "Voyager": {
+    "Voyager": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/VOYAGER/Voyager.svg"
+  },
+  "Wormhole Bridge": {
+    "Wormhole": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/WORMHOLE BRIDGE/Wormhole.png"
+  },
+  "Solarbeam Swap": {
+    "SolarbeamSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SOLARBEAM SWAP/SolarbeamSwap.png"
+  },
+  "FinKujira": {
+    "FinKujira": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/FINKUJIRA/FinKujira.png"
+  },
+  "Beam Swap": {
+    "BeamSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/BEAM SWAP/BeamSwap.png"
+  },
+  "UniSwap V2": {
+    "EthUniSwapV2": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/UNISWAP V2/EthUniSwapV2.png"
+  },
+  "Symbiosis": {
+    "Symbiosis": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SYMBIOSIS/Symbiosis.png"
+  },
+  "Pangolin Swap": {
+    "PangolinSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PANGOLIN SWAP/PangolinSwap.png"
+  },
+  "Hop": {
+    "Hop": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/HOP/Hop.svg"
+  },
+  "Sifchain": {
+    "Sifchain": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SIFCHAIN/Sifchain.png"
+  },
+  "Arbitrum Bridge": {
+    "Arbitrum Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/ARBITRUM BRIDGE/Arbitrum Bridge.svg"
+  },
+  "Pancake": {
+    "PancakeSwapBsc": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/PANCAKE/PancakeSwapBsc.png"
+  },
+  "Thorchain": {
+    "ThorChain": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/THORCHAIN/ThorChain.svg"
+  },
+  "Horizon Bridge": {
+    "Horizon Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/HORIZON BRIDGE/Horizon Bridge.svg"
+  },
+  "Jupiter": {
+    "Jupiter": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/JUPITER/Jupiter.svg"
+  },
+  "Rainbow Bridge": {
+    "Rainbow Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/RAINBOW BRIDGE/Rainbow Bridge.svg"
+  },
+  "Voltage Swap": {
+    "VoltageSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/VOLTAGE SWAP/VoltageSwap.png"
+  },
+  "Optimism Bridge": {
+    "Optimism Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OPTIMISM BRIDGE/Optimism Bridge.svg"
+  },
+  "QuickSwap": {
+    "QuickSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/QUICKSWAP/QuickSwap.png"
+  },
+  "OkcSwap": {
+    "OkcSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OKCSWAP/OkcSwap.png"
+  },
+  "VVS Finance": {
+    "VVSFinance": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/VVS FINANCE/VVSFinance.svg"
+  },
+  "Across": {
+    "Across Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/ACROSS/Across Aggregator.png",
+    "Across": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/ACROSS/Across.png"
+  },
+  "Solana Wrapper": {
+    "SolanaWrapper": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/SOLANA WRAPPER/SolanaWrapper.png"
+  },
+  "THORChain Agg": {
+    "THORChain Aggregator": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/THORCHAIN AGG/THORChain Aggregator.svg"
+  },
+  "Lido": {
+    "Lido": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/LIDO/Lido.png"
+  },
+  "CherrySwap": {
+    "CherrySwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/CHERRYSWAP/CherrySwap.png"
+  },
+  "Stella Swap": {
+    "StellaSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/STELLA SWAP/StellaSwap.png"
+  },
+  "Osmosis": {
+    "Osmosis": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OSMOSIS/Osmosis.png"
+  },
+  "MM Finance": {
+    "MMFinance": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/MM FINANCE/MMFinance.png"
+  },
+  "Viper Swap": {
+    "ViperSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/VIPER SWAP/ViperSwap.png"
+  },
+  "Diffusion": {
+    "Diffusion": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/DIFFUSION/Diffusion.png"
+  },
+  "AuroraSwap": {
+    "AuroraSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/AURORASWAP/AuroraSwap.png"
+  },
+  "Oolong Swap": {
+    "OolongSwap": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/OOLONG SWAP/OolongSwap.png"
+  },
+  "PoS Bridge": {
+    "Polygon Bridge": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/POS BRIDGE/Polygon Bridge.png"
+  },
+  "MojitoSwap": {
+    "Mojito": "https://raw.githubusercontent.com/DefiSpot/assets/main/swapperImages/MOJITOSWAP/Mojito.png"
+  }
+}
