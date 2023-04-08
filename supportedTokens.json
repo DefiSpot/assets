@@ -323,6 +323,7 @@
     ],
     "ARBITRUM": [
         "ETH",
+        "ARB-0x912ce59144191c1204e64559fe8253a0e49e6548",
         "USDT-0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
         "USDC-0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
         "DAI-0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
