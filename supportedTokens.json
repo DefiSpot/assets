@@ -182,7 +182,7 @@
         "APT-APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
         "BIT-EGiWZhNk3vUNJr35MbL2tY5YD6D81VVZghR2LgEFyXZh"
     ],
-    "AVAX_CCHAIN": [
+    "AVAX": [
         "AVAX",
         "USDC-0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
         "USDt-0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -235,7 +235,7 @@
         "UNI-0x3350289891543865f8bb41ee747f31ce5d5e3739",
         "SOL-0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
         "APE-0x0802d66f029c46e042b74d543fc43b6705ccb4ba",
-        "USDC.e-0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+        "USDC.E-0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
     ],
     "LTC": [
         "LTC"
@@ -318,7 +318,7 @@
         "SOL-0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
         "APE-0xd10da41d535078f23f68bd90e28b50b31fc40dbc"
     ],
-    "COSMOS": [
+    "GAIA": [
         "ATOM"
     ],
     "ARBITRUM": [
