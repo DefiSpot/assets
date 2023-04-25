@@ -393,5 +393,15 @@
         "WBTC-0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
         "FTM-0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
         "UNI-0xdbde1347fed5dc03c74059010d571a16417d307e"
+    ],
+    "CRONOS": [
+        "CRO",
+        "USDT-0x66e428c3f67a68878562e79a0234c1f83c208770"
+    ],
+    "GNOSIS": [
+        "XDAI"
+    ],
+    "FUSE": [
+        "FUSE"
     ]
 }
