@@ -405,5 +405,9 @@
     ],
     "FUSE": [
         "FUSE"
+    ],
+    "MOONBEAM":[
+        "GLMR",
+        "USDT-0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c"
     ]
 }
