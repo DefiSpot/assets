@@ -798,7 +798,8 @@
     ],
     "GNOSIS": [
         "XDAI",
-        "MAI-0x3f56e0c36d275367b8c502090edf38289b3dea0d""USDC-0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+        "MAI-0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+        "USDC-0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
         "DAI-0x44fa8e6f47987339850636f88629646662444217",
         "LINK-0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
         "WBTC-0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
