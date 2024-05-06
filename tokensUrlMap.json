@@ -10378,4 +10378,9 @@
   "BRISE": {
     "logo": "https://raw.githubusercontent.com/DefiSpot/assets/main/tokenImages/BRISE/BRISE.png"
   }
+  ,
+  "METIS": {
+    "logo": "https://raw.githubusercontent.com/DefiSpot/assets/main/tokenImages/METIS/METIS-0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000.svg",
+    "METIS-0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000": "https://raw.githubusercontent.com/DefiSpot/assets/main/tokenImages/METIS/METIS-0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000.svg"
+  }
 }
